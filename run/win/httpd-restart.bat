@@ -1,0 +1,1 @@
+win-httpd-stop.bat && win-httpd-start.bat
